@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Έλα να σου πάρω την κούραση μωρό μου Made with 💙- Powered By Alexakoss",
+        name: "Έλα να σου πάρω την κούραση μωρό μου ",
         // Activity type number (0 = Playing).
         type: 0,
       },
